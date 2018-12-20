@@ -9,7 +9,6 @@ buildNumber.properties
 .mvn/timing.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
-<<<<<<< HEAD
 !.mvn/wrapper/maven-wrapper.jar
 /target/
 
@@ -35,6 +34,3 @@ buildNumber.properties
 /dist/
 /nbdist/
 /.nb-gradle/
-=======
-!/.mvn/wrapper/maven-wrapper.jar
->>>>>>> 20e0c6d46fc87ca233fe13c2ae9a7f831454cba3
